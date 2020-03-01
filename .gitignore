@@ -1,0 +1,13 @@
+.idea
+venv
+*.__pyc__
+__pycache__/
+*.manifest
+*.spec
+.cache
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+*.so
